@@ -3,7 +3,7 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "九天之上",
+    title: "车干的小栈",
     // 站点描述
     description: "基于 vitepress-theme-curve 搭建的 github pages 站点",
     // 站点logo
@@ -14,16 +14,16 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "雨天狂奔",
+      name: "ZX",
       cover: "/images/logo/logo.webp",
-      email: "admin@24811213.xyz",
+      email: "3323999641@qq.com",
       link: "https://daoyi.hidns.vip/#/",
     },
   },
   // 备案信息
-  icp: "鄂ICP备202411-001号",
+  
   // 建站日期
-  since: "2024-11-1",
+  since: "2025-8-6",
   // 每页文章数据
   postSize: 8,
   // inject
