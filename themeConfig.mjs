@@ -216,16 +216,7 @@ export const themeConfig = {
           name: "今日热榜",
           url: "https://hot.imsyy.top/",
         },
-        {
-          icon: "https://rss.811520.xyz/favicon.ico",
-          name: "友圈后端",
-          url: "https://rss.811520.xyz/",
-        },
-        {
-          icon: "https://pan.811520.xyz/2024-11/1730634973-Cloudflare_Logo.webp",
-          name: "CF优选",
-          url: "https://blog2.811520.xyz/blogrss/",
-        },
+   
         {
           icon: "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
           name: "Serv00",
@@ -257,19 +248,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:admin@24811213.xyz",
+        link: "3323999641@qq.com",
       },
       {
         icon: "github",
-        link: "https://github.com/yutian81/",
-      },
-      {
-        icon: "telegram",
-        link: "https://t.me/yutian88881",
-      },
-      {
-        icon: "bilibili",
-        link: "https://space.bilibili.com/677845115",
+        link: "https://github.com/BradenZhang",
       },
     ],
     // sitemap
@@ -359,7 +342,7 @@ export const themeConfig = {
     // 站点简介
     hello: {
       enable: true,
-      text: "这里有我的各种<strong>折腾笔记</strong>，也有一些<strong>工作备忘</strong>和<strong>生活随笔</strong>。又菜又爱玩，<strong>万事都不难</strong>。",
+      text: "这里有我的各种<strong>折腾笔记</strong>，也有一些<strong>学习备忘</strong>和<strong>生活随笔</strong>。",
     },
     // 目录
     toc: {
@@ -385,8 +368,7 @@ export const themeConfig = {
   },
   // 友链
   friends: {
-    // 友链朋友圈
-    circleOfFriends: "https://blog2.811520.xyz/blogrss/",
+    
     // 动态友链
     dynamicLink: {
       server: "",
@@ -415,14 +397,7 @@ export const themeConfig = {
     apiKey: "94c1d72ea8e1533fc67c3e7244c7e196",
     indexName: "daoyi-wiki",
   },
-  // 打赏
-  rewardData: {
-    enable: true,
-    // 微信二维码
-    wechat: "https://pan.811520.xyz/2024-11/1730603920-wechatpay.webp",
-    // 支付宝二维码
-    alipay: "https://pan.811520.xyz/2024-11/1730603921-alipay.webp",
-  },
+
   // 图片灯箱
   fancybox: {
     enable: true,
