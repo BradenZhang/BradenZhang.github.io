@@ -9,7 +9,7 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog2.811520.xyz",
+    site: "https://bradenzhang.github.io/",
     // 语言
     lang: "zh-CN",
     // 作者
@@ -23,7 +23,7 @@ export const themeConfig = {
   // 备案信息
   
   // 建站日期
-  since: "2025-8-6",
+  since: "2025-08-06",
   // 每页文章数据
   postSize: 8,
   // inject
