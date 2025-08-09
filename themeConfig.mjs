@@ -266,6 +266,7 @@ export const themeConfig = {
           { text: "文章归档", link: "/pages/archives" },
         ],
       },
+      /** 
       {
         text: "云端平台",
         items: [
@@ -275,7 +276,8 @@ export const themeConfig = {
           { text: "Huawei", link: "https://www.huaweicloud.com/intl/zh-cn/", newTab: true },
         ],
       },
-      {
+      /
+      {**/
         text: "我的专栏",
         items: [
           { text: "技术分享", link: "/pages/categories/技术分享" },
@@ -284,6 +286,7 @@ export const themeConfig = {
           { text: "工作备忘", link: "/pages/categories/工作备忘" },
         ],
       },
+      /** 
       {
         text: "项目推荐",
         items: [
@@ -292,7 +295,7 @@ export const themeConfig = {
           { text: "alist", link: "https://alist.nn.ci/zh/", newTab: true },
           { text: "nezha", link: "https://nezha.wiki/guide/dashboard.html", newTab: true },
         ],
-      }, 
+      }, **/
       {        
         text: "页面导航",
         items: [

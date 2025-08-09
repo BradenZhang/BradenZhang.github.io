@@ -5,15 +5,13 @@
       <!-- 介绍 -->
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 九天之上</span>  
-        <span class="text3">是一名 又菜又爱玩的小白</span>
+        <span class="text2 title2">我是 车干</span>  
+      
       </div>
       <!-- 追求 -->
       <div class="about-item pursuit">
-        <span class="tip">追求</span>
-        <span class="title2">源于</span>
-        <span class="title2">热爱而去开发</span>
-        <span class="title2">优秀的作品</span>
+        <span class="tip"></span>
+        <span class="title2">Pay theta for long gamma</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 2fr 3fr">
@@ -44,8 +42,8 @@
           <i>無限進步</i>
         </span>
         <div class="list">
-          <span class="list-item" style="--color: #357ef5">法学学士</span>
-          <span class="list-item" style="--color: #eb372a">房地产营销管理</span>
+          <span class="list-item" style="--color: #357ef5">XMUM</span>
+          <span class="list-item" style="--color: #eb372a">计科在读</span>
         </div>
         <img
           class="career-img"
@@ -77,8 +75,9 @@
       <!-- 座右铭 -->
       <div class="about-item">
         <span class="tip">座右铭</span>
-        <span class="title1" style="margin-top: 20px">脚踏实地，</span>
-        <span class="title2">一丝不苟。</span>
+        <span class="title1" style="margin-top: 20px"> Pay theta for long gamma。</span>
+        <!-- <span class="title2">一丝不苟。</span> -->
+
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 1fr 1fr">
@@ -89,11 +88,13 @@
           background-image: url(https://pan.811520.xyz/2024-11/1730613978-1730613976160.webp);
         "
       >
+      
         <div class="image-content">
           <span class="tip">关注偏好</span>
           <span class="title2">数码科技</span>
+          <span class="title2">市场、金融、交易</span>
           <div class="image-desc">
-            <span class="left">手机、电脑及软硬件</span>
+            <span class="left">手机、电脑及软硬件...</span>
           </div>
         </div>
       </div>
@@ -104,6 +105,7 @@
           background-image: url(https://pan.811520.xyz/2024-11/1730614179-1730614177198.webp);
         "
       >
+       <!--
         <div class="image-content">
           <span class="tip">音乐偏好</span>
           <span class="title2">华语流行、摇滚、中国风、民谣</span>
@@ -111,6 +113,7 @@
             <span class="left">一起欣赏更多音乐</span>
           </div>
         </div>
+        -->
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 2fr 3fr">
